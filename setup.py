@@ -7,13 +7,13 @@ REQUIREMENTS = list(val.strip() for val in open("requirements.txt"))
 MIN_PY_VERSION = "3.8"
 
 setup(
-    name="aiohue",
+    name="aiohue-BenoitAnastay",
     version="4.4.1",
     license="Apache License 2.0",
-    url="https://github.com/home-assistant-libs/aiohue",
-    author="Paulus Schoutsen",
-    author_email="paulus@paulusschoutsen.nl",
-    description="Python module to talk to Philips Hue.",
+    url="https://github.com/BenoitAnastay/aiohue",
+    author="Benoit Anastay",
+    author_email="benoit@cg1.fr",
+    description="Fork of aiohue.",
     long_description=LONG_DESC,
     long_description_content_type="text/markdown",
     packages=PACKAGES,
