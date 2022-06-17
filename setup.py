@@ -8,7 +8,7 @@ MIN_PY_VERSION = "3.8"
 
 setup(
     name="aiohue-BenoitAnastay",
-    version="4.4.1",
+    version="4.4.2",
     license="Apache License 2.0",
     url="https://github.com/BenoitAnastay/aiohue",
     author="Benoit Anastay",
